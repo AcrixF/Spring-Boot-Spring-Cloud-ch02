@@ -1,0 +1,8 @@
+server:
+  port: 7001
+
+loggin:
+  level:
+    root: INFO
+    se.magnus.microservices: DEBUG
+
